@@ -1,1 +1,2 @@
-# linktracker-gtm
+# Linktracker Google Tag Manager template
+
